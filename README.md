@@ -2,10 +2,10 @@
 Use this link to view the index.html file ---> https://raw.githack.com/sharvesh642/API/main/index.html
 
 Concise Overview:
-Utilizes IMDb's auto-complete API to fetch movie data. 
-Dynamically updates the web page with movie posters and names based on user searches. 
-Implements a visually appealing design using CSS, including rounded corners and a dark background. 
-Enhances styling with the Oswald font from Google Fonts. 
+1) Utilizes IMDb's auto-complete API to fetch movie data. 
+2) Dynamically updates the web page with movie posters and names based on user searches. 
+3) Implements a visually appealing design using CSS, including rounded corners and a dark background. 
+4) Enhances styling with the Oswald font from Google Fonts. 
 
 
 Learning cure:
