@@ -1,7 +1,14 @@
 # API
 Use this link to view the index.html file ---> https://raw.githack.com/sharvesh642/API/main/index.html
 
-Description:
+Concise Overview:
+Utilizes IMDb's auto-complete API to fetch movie data. 
+Dynamically updates the web page with movie posters and names based on user searches. 
+Implements a visually appealing design using CSS, including rounded corners and a dark background. 
+Enhances styling with the Oswald font from Google Fonts. 
+
+
+Learning cure:
 
 1) Learnt how to make an API through the example provided.
 2) Went to RAPID API hub and downloaded IMDb API
